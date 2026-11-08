@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>Fill The Admission Form</h1>
+
+    <form action="post">
+        <div>
+            <label for="username">Enter your username:</label>
+            <input id="username" name="username" placeholder="Enter username" autofocus>
+        </div>
+
+        <div>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+
+            <input type="radio" id="Female" name="gender" value="Female">
+            <label for="Female">Female</label>
+        </div>
+
+        <div>
+            <label for="comment">Enter your text</label><br>
+            <textarea name="comment" id="comment" rows="5" cols="50"></textarea>
+        </div>
+
+        <select name="fruits" id="fruits">
+            <option value="Cherry">Cherry</option>
+            <option value="Apple">Apple</option>
+            <option value="Orange">Orange</option>
+        </select>
+
+        <input type="checkbox" name="checkbox" id="newsletter">
+        <label for="newsletter">Subscribe to newsletter</label>
+
+    </form>
+
+    <!-- This form is only for quick quiz practice -->
+    <form action="post">
+
+        <div>
+            <label for="name">Enter name:</label>
+            <input id="name" type="text" placeholder="Enter name" required>
+        </div>
+        <div>
+            <label for="city">Enter city:</label>
+            <input type="text" name="city" id="city" placeholder="Enter city">
+        </div>
+        <div>
+            <label for="pincode">Enter Your Pin-code:</label>
+            <input type="text" name="pincode" id="pincode" placeholder="Enter Pin-code">
+        </div>
+    </form>
+
+</body>
+
+</html>

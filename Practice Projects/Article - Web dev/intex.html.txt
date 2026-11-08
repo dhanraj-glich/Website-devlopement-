@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+
+<h1>Website developement process</h1>
+<p>In today's world surrounded by lots of advanced technolgies such as AI, SaaS aka software as a service, adveanced robotics like automatic vehiles and motion censors, and to make your business stand out in this tech era you need a tool that can show your business to millions or even billions of peopels and for that you need a website, so this article will guide you to learn that.</p>
+
+<section>
+    <h2>HTML - Structure of your website</h2>
+    <p>HTML is the core fundamental language for making a website imagine it as structure of a car(without body and engine).</p>
+    <iframe width="658" height="391" src="https://www.youtube.com/embed/2oCN2q1x3c4" title="HTML tutorial for beginners 🌎" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section>
+    <h2>CSS - Main body of a website</h2>
+    <p>CSS is also the core fundamental language for making a website, imagine it body of a car(paint and shape).</p>
+    <iframe width="658" height="391" src="https://www.youtube.com/embed/2oCN2q1x3c4" title="HTML tutorial for beginners 🌎" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section>
+    <h2>JavaScript - A real programming language</h2>
+    <p> JavaScript used to make the static page from website functional and make the animations ex: Dropdown menu. Imagine it as Engine of a car that runs it .</p>
+    <iframe width="658" height="391" src="https://www.youtube.com/embed/2oCN2q1x3c4" title="HTML tutorial for beginners 🌎" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+</main>
+</body>
+
+</html>
